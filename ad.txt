@@ -9,3 +9,4 @@ sugar.zhihu.com
 event.zhihu.com
 ad-account.zhihu.com
 api.zhihu.com
+ads.zhihu.com
