@@ -4,3 +4,8 @@ tcd.qq.com
 e.qq.com
 qzonestyle.gtimg.cn
 admail.qq.com
+
+sugar.zhihu.com
+event.zhihu.com
+ad-account.zhihu.com
+api.zhihu.com
