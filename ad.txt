@@ -1,39 +1,19 @@
-#!url=https://whatshub.top/module/wechatad.module
-#!name=去广告自定义IEXAMCOO
+# Title:QQ624091777 
+# Update: 2024-11-19 08:04:19(GMT+8)
 
-#!desc=去广告自定义IEXAMCOO
+# QQ邮箱
+DOMAIN-SUFFIX,mma.qq.com
+DOMAIN-SUFFIX,tcd.qq.com
+DOMAIN-SUFFIX,e.qq.com
+DOMAIN-SUFFIX,qzonestyle.gtimg.cn
+DOMAIN-SUFFIX,admail.qq.com
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
 
-#!icon=
-
-#!homepage=
-
-#!author=WeChat：iexamcoo
-
-
-
-
-
-#微信公众号去广告 by Choler&NobyDa
-
-[MITM]
-
-hostname = %APPEND% mp.weixin.qq.com
-
-[Script]
-
-微信公众号去广告=type=http-response,pattern=^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
-
-
-
-QQ邮箱
-mma.qq.com
-tcd.qq.com
-e.qq.com
-qzonestyle.gtimg.cn
-admail.qq.com
-
-sugar.zhihu.com
-event.zhihu.com
-ad-account.zhihu.com
-api.zhihu.com
-ads.zhihu.com
+# 知乎
+DOMAIN-SUFFIX,sugar.zhihu.com
+DOMAIN-SUFFIX,event.zhihu.com
+DOMAIN-SUFFIX,ad-account.zhihu.com
+DOMAIN-SUFFIX,api.zhihu.com
+DOMAIN-SUFFIX,ads.zhihu.com
+DOMAIN-SUFFIX,apm.zhihu.com
