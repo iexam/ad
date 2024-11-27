@@ -20,4 +20,11 @@ DOMAIN-SUFFIX,e.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,qzonestyle.gtimg.cn,REJECT-DROP
 DOMAIN-SUFFIX,admail.qq.com,REJECT-DROP
 
+#百事AA记账
+DOMAIN-SUFFIX,p2-ad.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,p3-ad.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,p4-ad.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,p5-ad.adukwai.com,REJECT-DROP
+DOMAIN-SUFFIX,p6-ad.adukwai.com,REJECT-DROP
+
 #
