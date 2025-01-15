@@ -6,11 +6,6 @@
 
 [Rule]
 #zhihu
-DOMAIN-SUFFIX,apm.zhihu.com,REJECT-DROP
-DOMAIN-SUFFIX,sugar.zhihu.com,REJECT-DROP
-DOMAIN-SUFFIX,event.zhihu.com,REJECT-DROP
-DOMAIN-SUFFIX,ad-account.zhihu.com,REJECT-DROP
-DOMAIN-SUFFIX,api.zhihu.com,REJECT-DROP
 DOMAIN-SUFFIX,ads.zhihu.com,REJECT-DROP
 
 #QQMail
