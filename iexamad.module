@@ -24,3 +24,7 @@ DOMAIN-SUFFIX,p6-ad.adukwai.com,REJECT-DROP
 
 #12306
 DOMAIN-SUFFIX,ad.12306.cn,REJECT-DROP
+
+#点心云
+
+DOMAIN-SUFFIX,adsmind.ugdtimg.com,REJECT-DROP
