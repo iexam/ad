@@ -29,3 +29,6 @@ DOMAIN-SUFFIX,mobile.12306.cn,REJECT-DROP
 #点心云
 
 DOMAIN-SUFFIX,adsmind.ugdtimg.com,REJECT-DROP
+
+#苹果IOS更新
+DOMAIN-SUFFIX,gdmf.apple.com,REJECT-DROP
